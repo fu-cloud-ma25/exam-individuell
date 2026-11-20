@@ -1,5 +1,7 @@
 # Examination – Shui
 
+[Inspelad genomgån](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQAPwtcyBuiQTLIgIahCFwl3AVFKwlgtwdeSCvs-wn6vLBM?e=X1IgDt)
+
 ## Uppgiftsbeskrivning
 
 I denna examination ska du utveckla **Shui**, ett REST API för en digital anslagstavla där användare kan registrera sig, logga in och publicera inlägg.
@@ -48,7 +50,7 @@ Ingen frontend ska utvecklas.
 
 ## Inlämning
 
-<text weight="medium">Deadline: Fredag 27 november 2026 kl. 23:59</text>
+<text weight="medium">Deadline: Söndag 29 november 2026 kl. 23:59</text>
 
 Inlämningen sker via **Moodle** och ska innehålla:
 
